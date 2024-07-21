@@ -1,4 +1,4 @@
 # Hello World! 👋
 
-Hey everyone, I'm Hwang.!
+Hey everyone, I'm Hwang!
 
